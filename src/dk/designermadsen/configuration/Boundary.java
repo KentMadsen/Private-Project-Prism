@@ -1,4 +1,4 @@
-package dk.designermadsen.config;
+package dk.designermadsen.configuration;
 
 public class Boundary
 {
@@ -7,6 +7,8 @@ public class Boundary
 
     }
 
+
+    // Variables
     private Boundary[] boundaries = null;
     private Statement[] statements = null;
 

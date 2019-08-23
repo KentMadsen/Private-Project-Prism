@@ -1,4 +1,4 @@
-package dk.designermadsen.config;
+package dk.designermadsen.configuration;
 
 public class Configuration
 {

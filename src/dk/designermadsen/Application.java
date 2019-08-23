@@ -33,7 +33,7 @@ public class Application
      */
     public Business getBusiness()
     {
-        return business;
+        return this.business;
     }
 
     /**
